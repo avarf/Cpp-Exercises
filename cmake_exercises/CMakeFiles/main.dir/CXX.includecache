@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ali/workspace/Cpp-Exercises/cmake_exercises/main.cpp
+iostream
+-
+string
+-
+sstream
+-
+algorithm
+-
+iterator
+-
+vector
+-
+boost/algorithm/string.hpp
+-
+

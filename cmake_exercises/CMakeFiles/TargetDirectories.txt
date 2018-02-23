@@ -1,0 +1,3 @@
+/home/ali/workspace/Cpp-Exercises/cmake_exercises/CMakeFiles/rebuild_cache.dir
+/home/ali/workspace/Cpp-Exercises/cmake_exercises/CMakeFiles/edit_cache.dir
+/home/ali/workspace/Cpp-Exercises/cmake_exercises/CMakeFiles/main.dir
